@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/xv6-labs-2021.iml" filepath="$PROJECT_DIR$/.idea/xv6-labs-2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xv6_demo.iml" filepath="$PROJECT_DIR$/.idea/xv6_demo.iml" />
     </modules>
   </component>
 </project>
