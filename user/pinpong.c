@@ -12,7 +12,7 @@ int main() {
 	int pid = fork();
 	if(pid > 0) {
     write(fd[1],"ping", MSGSIZE);
-    wait(NULL);
+    wait(0);
     read(fd[0],buf,MSGSIZE);
     printf("%d: received %s\n",getpid(),buf);
 	} else {
